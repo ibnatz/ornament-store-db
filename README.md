@@ -13,6 +13,6 @@ This system basically models the Ornament Store's operations using MySQL, and is
 
 ### Acknowledgements:
 
-> Thanks to my teammate Farjana Akther for helping me implement my ER Diagram using MySQL. She is truly special.
++ Thanks to my teammate Farjana Akther for helping me implement my ER Diagram using MySQL. She is truly special.
 
-> Thanks to Tahsina Hasnat and Asma Begum Simran for presenting our database design, implementation, idea and functions in a bite-sized manner to a wider audience.
++ Thanks to Tahsina Hasnat and Asma Begum Simran for presenting our database design, implementation, idea and functions in a bite-sized manner to a wider audience.
