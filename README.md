@@ -2,13 +2,13 @@
 
 This system basically models the Ornament Store's operations using MySQL, and is defined by:
 
-+ Entity-Relationship Diagram.
++ Entity-Relationship Diagram
 
-+ Clean implementation of Relational Schema.
++ Clean implementation of Relational Schema
 
 + Normalized relational schema upto 3NF
 
-+ Mapping tables and a correspondence table to ensure referential integrity and eliminate data redundancy.
++ Mapping tables and a correspondence table to ensure referential integrity and eliminate data redundancy
 
 
 ### Acknowledgements:
